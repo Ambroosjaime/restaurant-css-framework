@@ -1,0 +1,5 @@
+body{
+    background-image: linear-gradient(rgba(3, 3, 3, 0.4),rgba(3, 3, 3, 0.4)), url(Resource/image/background-fiat.jpg);
+    background-size: cover;
+}
+
